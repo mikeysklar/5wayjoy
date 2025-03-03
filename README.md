@@ -1,21 +1,9 @@
 
-Micro-Chorder 
+5wayjoy
+---
 
-One handed chording keyboard which combines two simple I2C boards:
-
-* fingertips (4 buttons)
-* 5 way joy (5 way tactile joystick)
+Tactile 5 way joystick used in combination with fingertips as part of micro-chording. A one handed chording keyboard.
 
 An addition I2C hub and controller is used to run the CircuitPython code needed to translate chords into ascii chars.
 
-![Screenshot](pics/mc-cad-out.png)
-
-![Screenshot](pics/mc-cad-in.png)
-
-![Screenshot](pics/mc-joy.jpeg)
-
-![Screenshot](pics/mc-cover.jpeg)
-
-![Screenshot](pics/mc-hub-controller.jpeg)
-
-![Screenshot](pics/mc-buttons.jpeg)
+![Screenshot](pics/soldered-mask.jpeg)
